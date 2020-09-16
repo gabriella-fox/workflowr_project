@@ -10,4 +10,4 @@ editor_options:
 
 Welcome to my research website.
 
-* [Teeth growth analysis](teeth.html)
+* [link to BSD welcome (test)](https://jnovembre.github.io/BSD-QBio6/)
