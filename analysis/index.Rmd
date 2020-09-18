@@ -10,4 +10,5 @@ editor_options:
 
 Welcome to my research website.
 
-* [link to BSD welcome (test)](https://jnovembre.github.io/BSD-QBio6/)
+* [guinea pig teeth length analysis](docs/teeth.html)
+* [link to Karl Tayeb's page](https://karltayeb.github.io/karl_workflowr/)
